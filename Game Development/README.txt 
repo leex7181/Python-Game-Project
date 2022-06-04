@@ -1,0 +1,29 @@
+Brief description : firstly, we need to install pygame in pycharm terminal
+
+Secondly, project script is organized into 6 different python script.
+
+Please run code from smaller number (ex.1_Frame.py) to larger number (2_Weapon_key_Event.py), (3_Ball_Bouncing.py)
+to understand my thought process.
+
+Run 6_Mission_Complete.py (cumulated script from 1_Frame.py to 5_Ball_Division.py).
+
+6_Mission_Complete.pyis final version of python script in the project.
+
+
+Enjoy the game!
+
+
+
+
+Default setting
+
+Background: 640*480
+
+stage 640*50
+
+character 60*33
+
+Weapon 20* 430
+
+Ball 160*160, 80*80, 40*40, 20*20
+
