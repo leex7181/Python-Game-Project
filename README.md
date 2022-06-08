@@ -1,1 +1,1 @@
-# Python-Project
+# Python-Project (Indivisual game project)
